@@ -1661,3 +1661,16 @@ section {
 #footer .credits a {
   transition: 0.3s;
 }
+
+/* Paypal Button */
+#paypal-button {
+  color: white;
+  background-color: #3473a0;
+  font-weight: bold;
+  margin-top: 45px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #3473a0;
+  width: 200px;
+  height: 35px;
+}
